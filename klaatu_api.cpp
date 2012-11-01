@@ -6,7 +6,7 @@
 #include <ui/FramebufferNativeWindow.h>
 #include <SurfaceComposerClient.h>
 
-#include "common/gfx.h"
+#include "gfx.h"
 #include "klaatu_internal.h"
 
 using namespace android;
